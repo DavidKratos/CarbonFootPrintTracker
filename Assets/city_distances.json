@@ -1,0 +1,705 @@
+{
+    "cityDistances": [
+        {
+            "CityA": "New York-USA",
+            "CityB": "Mumbai",
+            "Distance": 12538.44,
+            "CarbonFootPrint": 1.69,
+            "CountryA":"USA",
+            "CountryB":"India"
+             
+        },
+        {
+            "CityA": "New York-USA",
+            "CityB": "Delhi",
+            "Distance": 11752.92,
+            "CarbonFootPrint": 1.58,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "New York-USA",
+            "CityB": "Banglore",
+            "Distance": 13367.13,
+            "CarbonFootPrint": 1.80,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Los Angeles-USA",
+            "CityB": "Mumbai",
+            "Distance": 13999.95,
+            "CarbonFootPrint": 1.89,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Los Angeles-USA",
+            "CityB": "Delhi",
+            "Distance": 12864.94,
+            "CarbonFootPrint": 1.73,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Los Angeles-USA",
+            "CityB": "Banglore",
+            "Distance": 14530.08,
+            "CarbonFootPrint": 1.96,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Chicago-USA",
+            "CityB": "Mumbai",
+            "Distance": 12950.97,
+            "CarbonFootPrint": 1.74,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Chicago-USA",
+            "CityB": "Delhi",
+            "Distance": 12024.98,
+            "CarbonFootPrint": 1.62,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Chicago-USA",
+            "CityB": "Banglore",
+            "Distance": 13733.82,
+            "CarbonFootPrint": 1.87,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Houston-USA",
+            "CityB": "Mumbai",
+            "Distance": 14440.6,
+            "CarbonFootPrint": 1.94,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Houston-USA",
+            "CityB": "Delhi",
+            "Distance": 13473.91,
+            "CarbonFootPrint": 1.81,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Houston-USA",
+            "CityB": "Banglore",
+            "Distance": 15202.95,
+            "CarbonFootPrint": 2.05,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Dallas-USA",
+            "CityB": "Mumbai",
+            "Distance": 14145.70 ,
+            "CarbonFootPrint": 1.90,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Dallas-USA",
+            "CityB": "Delhi",
+            "Distance": 13156.66,
+            "CarbonFootPrint": 1.77,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Dallas-USA",
+            "CityB": "Banglore",
+            "Distance": 14892.12,
+            "CarbonFootPrint": 2.0,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Phoenix-USA",
+            "CityB": "Mumbai",
+            "Distance": 14157.73 ,
+            "CarbonFootPrint": 1.90,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Phoenix-USA",
+            "CityB": "Delhi",
+            "Distance": 13042.52,
+            "CarbonFootPrint": 1.76,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Phoenix-USA",
+            "CityB": "Banglore",
+            "Distance": 14641,
+            "CarbonFootPrint": 1.98,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Columbus-USA",
+            "CityB": "Mumbai",
+            "Distance": 12903 ,
+            "CarbonFootPrint": 1.78,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Columbus-USA",
+            "CityB": "Delhi",
+            "Distance": 12120,
+            "CarbonFootPrint": 1.64,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Columbus-USA",
+            "CityB": "Banglore",
+            "Distance": 13688,
+            "CarbonFootPrint": 1.88,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Boston-USA",
+            "CityB": "Mumbai",
+            "Distance": 12255.15 ,
+            "CarbonFootPrint": 1.65,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Boston-USA",
+            "CityB": "Delhi",
+            "Distance": 11411,
+            "CarbonFootPrint": 1.54,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Boston-USA",
+            "CityB": "Banglore",
+            "Distance": 13063.54,
+            "CarbonFootPrint": 1.76,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "San Francisco-USA",
+            "CityB": "Mumbai",
+            "Distance": 13501.03 ,
+            "CarbonFootPrint": 1.82,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "San Francisco-USA",
+            "CityB": "Delhi",
+            "Distance": 12380.88,
+            "CarbonFootPrint": 1.67,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "San Francisco-USA",
+            "CityB": "Banglore",
+            "Distance": 14015,
+            "CarbonFootPrint": 1.89,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Austin-USA",
+            "CityB": "Mumbai",
+            "Distance": 8974.63 ,
+            "CarbonFootPrint": 1.73,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Austin-USA",
+            "CityB": "Delhi",
+            "Distance": 13378,
+            "CarbonFootPrint": 1.6,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Austin-USA",
+            "CityB": "Banglore",
+            "Distance": 15194,
+            "CarbonFootPrint": 1.84,
+            "CountryA":"USA",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Sydney-Austrailia",
+            "CityB": "Mumbai",
+            "Distance": 10150,
+            "CarbonFootPrint": 1.37,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Sydney-Austrailia",
+            "CityB": "Delhi",
+            "Distance": 10436,
+            "CarbonFootPrint": 1.4,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Sydney-Austrailia",
+            "CityB": "Banglore",
+            "Distance": 9343,
+            "CarbonFootPrint": 1.26,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Melbourne-Austrailia",
+            "CityB": "Mumbai",
+            "Distance": 9815,
+            "CarbonFootPrint": 1.32,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Melbourne-Austrailia",
+            "CityB": "Delhi",
+            "Distance": 10213,
+            "CarbonFootPrint": 1.37,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Melbourne-Austrailia",
+            "CityB": "Banglore",
+            "Distance": 8987,
+            "CarbonFootPrint": 1.21,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Brisbane-Austrailia",
+            "CityB": "Mumbai",
+            "Distance": 10048,
+            "CarbonFootPrint": 1.36,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Brisbane-Austrailia",
+            "CityB": "Banglore",
+            "Distance": 9274,
+            "CarbonFootPrint": 1.25,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Brisbane-Austrailia",
+            "CityB": "Delhi",
+            "Distance": 10207,
+            "CarbonFootPrint": 1.38,
+            "CountryA":"Australia",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "London-UK",
+            "CityB": "Mumbai",
+            "Distance": 7221,
+            "CarbonFootPrint": 1.44,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "London-UK",
+            "CityB": "Banglore",
+            "Distance": 8030,
+            "CarbonFootPrint": 1.61,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "London-UK",
+            "CityB": "Delhi",
+            "Distance": 6710.67,
+            "CarbonFootPrint": 1.34,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Manchester-UK",
+            "CityB": "Mumbai",
+            "Distance": 7339.59,
+            "CarbonFootPrint": 1.47,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Manchester-UK",
+            "CityB": "Banglore",
+            "Distance": 8177,
+            "CarbonFootPrint": 1.64,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Manchester-UK",
+            "CityB": "Delhi",
+            "Distance": 6809.4,
+            "CarbonFootPrint": 1.36,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Birmingham-UK",
+            "CityB": "Mumbai",
+            "Distance": 7300,
+            "CarbonFootPrint": 1.46,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Birmingham-UK",
+            "CityB": "Banglore",
+            "Distance": 8142,
+            "CarbonFootPrint": 1.63,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Birmingham-UK",
+            "CityB": "Delhi",
+            "Distance": 6806,
+            "CarbonFootPrint": 1.36,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Glasgow-UK",
+            "CityB": "Mumbai",
+            "Distance": 7482,
+            "CarbonFootPrint": 1.5,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Glasgow-UK",
+            "CityB": "Banglore",
+            "Distance": 8320,
+            "CarbonFootPrint": 1.66,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Glasgow-UK",
+            "CityB": "Delhi",
+            "Distance": 6861,
+            "CarbonFootPrint": 1.38,
+            "CountryA":"UK",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Berlin-Germany",
+            "CityB": "Mumbai",
+            "Distance": 6289.45,
+            "CarbonFootPrint": 0.84,
+            "CountryA":"Germany",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Berlin-Germany",
+            "CityB": "Banglore",
+            "Distance": 7130.80,
+            "CarbonFootPrint": 0.96,
+            "CountryA":"Germany",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Berlin-Germany",
+            "CityB": "Delhi",
+            "Distance": 5776.6,
+            "CarbonFootPrint": 0.78,
+            "CountryA":"Germany",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Munich-Germany",
+            "CityB": "Mumbai",
+            "Distance": 6319,
+            "CarbonFootPrint": 0.85,
+            "CountryA":"Germany",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Munich-Germany",
+            "CityB": "Banglore",
+            "Distance": 7164.90,
+            "CarbonFootPrint": 0.97,
+            "CountryA":"Germany",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Munich-Germany",
+            "CityB": "Delhi",
+            "Distance": 5906,
+            "CarbonFootPrint": 0.8,
+            "CountryA":"Germany",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Paris-France",
+            "CityB": "Mumbai",
+            "Distance": 6319,
+            "CarbonFootPrint": 0.94,
+            "CountryA":"France",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Paris-France",
+            "CityB": "Banglore",
+            "Distance": 8017,
+            "CarbonFootPrint": 1.06,
+            "CountryA":"France",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Paris-France",
+            "CityB": "Delhi",
+            "Distance": 6590,
+            "CarbonFootPrint": 0.89,
+            "CountryA":"France",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Lyon-France",
+            "CityB": "Mumbai",
+            "Distance": 6815.57,
+            "CarbonFootPrint": 0.92,
+            "CountryA":"France",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Lyon-France",
+            "CityB": "Banglore",
+            "Distance": 7645.60,
+            "CarbonFootPrint": 1.03,
+            "CountryA":"France",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Lyon-France",
+            "CityB": "Delhi",
+            "Distance": 6976,
+            "CarbonFootPrint": 0.87,
+            "CountryA":"France",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Toronto-Canada",
+            "CityB": "Mumbai",
+            "Distance": 12493.34,
+            "CarbonFootPrint": 1.62,
+            "CountryA":"Canada",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Toronto-Canada",
+            "CityB": "Banglore",
+            "Distance": 13301,
+            "CarbonFootPrint": 1.73,
+            "CountryA":"Canada",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Toronto-Canada",
+            "CityB": "Delhi",
+            "Distance": 11649,
+            "CarbonFootPrint": 1.49,
+            "CountryA":"Canada",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Victoria-Canada",
+            "CityB": "Mumbai",
+            "Distance": 12330,
+            "CarbonFootPrint": 1.66,
+            "CountryA":"Canada",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Victoria-Canada",
+            "CityB": "Banglore",
+            "Distance": 12754,
+            "CarbonFootPrint": 1.74,
+            "CountryA":"Canada",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Victoria-Canada",
+            "CityB": "Delhi",
+            "Distance": 11126,
+            "CarbonFootPrint": 1.51,
+            "CountryA":"Canada",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Mexico City-Mexico",
+            "CityB": "Mumbai",
+            "Distance": 15655.7,
+            "CarbonFootPrint": 2.11,
+            "CountryA":"Mexico",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Mexico City-Mexico",
+            "CityB": "Banglore",
+            "Distance": 16392,
+            "CarbonFootPrint": 2.21,
+            "CountryA":"Mexico",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Mexico City-Mexico",
+            "CityB": "Delhi",
+            "Distance": 14687,
+            "CarbonFootPrint": 1.98,
+            "CountryA":"Mexico",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Monterrey-Mexico",
+            "CityB": "Mumbai",
+            "Distance": 14980,
+            "CarbonFootPrint": 2.02,
+            "CountryA":"Mexico",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Monterrey-Mexico",
+            "CityB": "Banglore",
+            "Distance": 15716.85,
+            "CarbonFootPrint": 2.12,
+            "CountryA":"Mexico",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Monterrey-Mexico",
+            "CityB": "Delhi",
+            "Distance": 13884,
+            "CarbonFootPrint": 1.88,
+            "CountryA":"Mexico",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Rio de Janeiro-Brazil",
+            "CityB": "Mumbai",
+            "Distance": 13417.1,
+            "CarbonFootPrint": 1.81,
+            "CountryA":"Brazil",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Rio de Janeiro-Brazil",
+            "CityB": "Banglore",
+            "Distance": 13720,
+            "CarbonFootPrint": 1.85,
+            "CountryA":"Brazil",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Rio de Janeiro-Brazil",
+            "CityB": "Delhi",
+            "Distance": 14097,
+            "CarbonFootPrint": 1.89,
+            "CountryA":"Brazil",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Salvador-Brazil",
+            "CityB": "Mumbai",
+            "Distance": 12676.46,
+            "CarbonFootPrint": 1.71,
+            "CountryA":"Brazil",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Salvador-Brazil",
+            "CityB": "Banglore",
+            "Distance": 13118,
+            "CarbonFootPrint": 1.76,
+            "CountryA":"Brazil",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Salvador-Brazil",
+            "CityB": "Delhi",
+            "Distance": 13575,
+            "CarbonFootPrint": 1.77,
+            "CountryA":"Brazil",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Buenos Aires-Argentina",
+            "CityB": "Mumbai",
+            "Distance": 14960,
+            "CarbonFootPrint": 2.02,
+            "CountryA":"Argentina",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Buenos Aires-Argentina",
+            "CityB": "Banglore",
+            "Distance": 14994.26,
+            "CarbonFootPrint": 2.02,
+            "CountryA":"Argentina",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Buenos Aires-Argentina",
+            "CityB": "Delhi",
+            "Distance": 15800,
+            "CarbonFootPrint": 2.13,
+            "CountryA":"Argentina",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Rosario-Argentina",
+            "CityB": "Mumbai",
+            "Distance": 15089,
+            "CarbonFootPrint": 2.04,
+            "CountryA":"Argentina",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Rosario-Argentina",
+            "CityB": "Banglore",
+            "Distance": 15287,
+            "CarbonFootPrint": 2.06,
+            "CountryA":"Argentina",
+            "CountryB":"India"
+        },
+        {
+            "CityA": "Rosario-Argentina",
+            "CityB": "Delhi",
+            "Distance": 15891,
+            "CarbonFootPrint": 2.15,
+            "CountryA":"Argentina",
+            "CountryB":"India"
+        }
+    ]
+    
+    
+    
+    
+}
